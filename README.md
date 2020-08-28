@@ -6,7 +6,7 @@ Has multiple functions:
 3. Predict the weather
 4. Generate postcards and cats
 
-To fully deploy it, there is a requirements. You also need to specify your token data,
+To fully deploy it will require some libraries, which are listed in the requirements. You also need to specify your token data,
  group id and information for the database in a special file secret_settings.
  
 # Вк чат бот
@@ -17,5 +17,6 @@ To fully deploy it, there is a requirements. You also need to specify your token
 3. Предсказывать погоду
 4. Генерировать открытки и котиков
 
-Для его полного развертывания имеется файл requirements. Так же необходимо указать свои данные токена, 
+Для его полного развертывания потребутся некоторые бибилиотеки, список которых имеется в файле requirements.
+Так же необходимо указать свои данные токена, 
  id группы и информации для базы данных в специльном файле secret_settings.
